@@ -24,13 +24,13 @@ Este é meu primeiro projeto **React.js** ... um projeto simples de uma aplicaç
 
 ---
 
-🧠 Conceitos Aplicados
+## 🧠 Conceitos Aplicados
 Hooks: useState, useEffect
 
-Componentização: Separação de responsabilidades por componentes
+- **Componentização**: Separação de responsabilidades por componentes
 
-Persistência: Salvando tarefas no localStorage
+- **Persistência**: Salvando tarefas no localStorage
 
-Roteamento: Navegação entre páginas com react-router-dom
+- **Roteamento**: Navegação entre páginas com react-router-dom
 
-Validação: Verificação básica de entrada no formulário
+- **Validação**: Verificação básica de entrada no formulário
