@@ -25,7 +25,7 @@ Este é meu primeiro projeto **React.js** ... um projeto simples de uma aplicaç
 ---
 
 ## 🧠 Conceitos Aplicados
-Hooks: useState, useEffect
+- **Hooks**: useState, useEffect, v4(uuid), lucide-react, useNavigate, useSearchParams
 
 - **Componentização**: Separação de responsabilidades por componentes
 
