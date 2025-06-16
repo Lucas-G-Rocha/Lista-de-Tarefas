@@ -6,7 +6,6 @@ function AddTask(props) {
     const [descricao, setDescricao] = useState("");
 
 
-
     return (
         <div id='mainContainerAddTask'>
             <div className='addTaskContainer'>
