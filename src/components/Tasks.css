@@ -1,0 +1,44 @@
+#tarefasContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+
+    width: 100%;
+}
+.tarefaContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    column-gap: 10px;
+}
+.tarefa{
+    background-color: rgb(32, 31, 31);
+    border: none;
+    padding: 15px;
+    border-radius: 5px;
+    width: 70%;
+    text-align: left;
+    color: rgb(205, 148, 35);
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    
+}
+.function{
+    background-color: rgb(32, 31, 31);
+    color: rgb(205, 148, 35);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.checkIcon{
+    height: 1rem;
+}

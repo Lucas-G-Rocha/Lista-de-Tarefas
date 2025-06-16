@@ -1,0 +1,29 @@
+
+#seeTask{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    row-gap: 10px;
+
+    background-color: rgb(214, 214, 214);
+    width: 50%;
+    max-width: 1000px;
+    min-width: 300px;
+    padding: 20px 0;
+    min-height: 300px;
+    position: relative;
+
+    border-radius: 10px;
+}
+#returnContainer{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.return{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
