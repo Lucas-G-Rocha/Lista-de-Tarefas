@@ -1,5 +1,7 @@
 # 📝 Lista de Tarefas – Meu Primeiro Projeto em React
 
+🔗 **Acesse o projeto online:** https://lista-de-tarefas-6dui.onrender.com/
+
 Este repositório contém o **primeiro projeto React** que desenvolvi durante meus estudos.  
 A ideia foi criar uma aplicação simples de **lista de tarefas (To-Do List)** para praticar os fundamentos do React e entender melhor seu fluxo de trabalho.
 
@@ -37,4 +39,3 @@ Foi um ótimo exercício para aprender:
 
 Por ser meu primeiro projeto React, o foco aqui foi aprender a base da biblioteca e entender como estruturar componentes e estados.  
 Mesmo simples, foi um passo importante na minha jornada no front-end.
-
